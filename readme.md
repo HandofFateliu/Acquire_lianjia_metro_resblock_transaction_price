@@ -39,7 +39,3 @@ Predicted_result.csv文件为以aver_rating.txt文件为基础进行预测，补
 
 - [ ] 写注释
 
-
-
-
-> 吾生也有涯，而知也无涯。
